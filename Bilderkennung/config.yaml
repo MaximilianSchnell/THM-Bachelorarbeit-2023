@@ -1,0 +1,29 @@
+camera_settings:
+  camera_index: 0
+  width: 1920
+  height: 1080
+camera_intrinsics:
+  fx: 1436.163640281333
+  fy: 1442.726289971857
+  cx: 962.7635882992781
+  cy: 506.1877095112721
+  k1: 0.030879754719235
+  k2: -0.091482467868427
+  p1: -0.002232927599662
+  p2: 0.000545642267413
+cv_parameters:
+  blur_kernel_size: 13
+  threshold_brightness: 180
+  contour_min_area: 5000
+  contour_max_area: 20000
+  polygon_epsilon: 0.05
+server:
+  ip: 192.168.133.1
+  port: 2023
+initial_camera_pose:
+  x: 160.0
+  y: 470.0
+  z: 550.0
+  gamma: 0.0
+objects_parameters:
+  min_depth: 5.0
