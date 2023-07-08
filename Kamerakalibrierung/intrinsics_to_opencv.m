@@ -1,0 +1,1 @@
+[intrinsicMatrix,distortionCoefficients] = cameraIntrinsicsToOpenCV(cameraParams.Intrinsics)
